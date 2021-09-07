@@ -168,3 +168,16 @@ body {
 }
 /* /.sezione_con_tre_colonne */
 /* /#main */
+
+/* #footer */
+.footer {
+	height: 100px;
+	margin-top: 1rem;
+	text-align: center;
+}
+
+#heart {
+	color: red;
+	font-size: 25px;
+}
+/* /#footer */
